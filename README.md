@@ -5,9 +5,10 @@
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/@patternfly/pfe-tools.svg)](https://npmjs.org/package/@patternfly/pfe-tools)
-[![CircleCI](https://circleci.com/gh/kylebuch8/pfe-tools/tree/master.svg?style=shield)](https://circleci.com/gh/kylebuch8/pfe-tools/tree/master)
 [![Downloads/week](https://img.shields.io/npm/dw/@patternfly/pfe-tools.svg)](https://npmjs.org/package/@patternfly/pfe-tools)
 [![License](https://img.shields.io/npm/l/@patternfly/pfe-tools.svg)](https://github.com/kylebuch8/pfe-tools/blob/master/package.json)
+
+This is a WIP repository for extracting the dev tools out of the PatternFly Elements project.
 
 <!-- toc -->
 * [Usage](#usage)
