@@ -1,0 +1,18 @@
+import { PFElement, html } from "@patternfly/pfelement";
+import styles from "<%= elementName %>.scss";
+
+export class <%= elementClassName %> extends PFElement {
+  static styles = styles;
+
+  static get tag() {
+    return "<%= elementName %>";
+  }
+
+  render() {
+    return html`
+      <slot></slot>
+    `;
+  }
+}
+
+PFElement.create(<%= elementClassName %>);
